@@ -1,3 +1,7 @@
+#My dear friend you can use the median function in Python3:
+#from statistics import median?
+
+
 num=input()
 x=map(int,raw_input().split())
 f=map(int,raw_input().split())
